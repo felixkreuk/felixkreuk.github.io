@@ -10,9 +10,9 @@ redirect_from:
 
 Bio
 ====
-My name is Felix Kreuk. I am a Computer-Science PhD candidate at Bar-Ilan University
-under the supervision of Prof. Joseph Keshet. My research interests are in
-machine-learning, deep-learning and their applications in speech processing, spcifically, speech generation.
+My name is Felix Kreuk. I am a Computer-Science PhD candidate at [Bar-Ilan University](https://www1.biu.ac.il/)
+under the supervision of [Prof. Joseph Keshet](https://u.cs.biu.ac.il/~jkeshet/). My research interests are in
+machine-learning, deep-learning and their applications in speech processing, spcifically, speech synthesis.
 
 Publications
 ====
