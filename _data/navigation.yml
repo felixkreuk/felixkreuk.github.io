@@ -6,6 +6,9 @@ main:
   - title: "Blog Posts"
     url: /blog/
 
+  - title: "CV"
+    url: /files/cv.pdf
+
   # - title: "Publications"
     # url: /publications/
 #
